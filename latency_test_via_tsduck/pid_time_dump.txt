@@ -1,0 +1,600 @@
+Measurement 1:
+  arm_time: 1764171169.292700636 (MONOTONIC_RAW)
+  hit_time: 1764171194.703730503 (MONOTONIC_RAW)
+  latency : 25.411029867 s
+Measurement 2:
+  arm_time: 1764171204.703907718 (MONOTONIC_RAW)
+  hit_time: 1764171204.814780684 (MONOTONIC_RAW)
+  latency : 0.110872966 s
+Measurement 3:
+  arm_time: 1764171214.814948786 (MONOTONIC_RAW)
+  hit_time: 1764171214.914423381 (MONOTONIC_RAW)
+  latency : 0.099474595 s
+Measurement 4:
+  arm_time: 1764171224.914595109 (MONOTONIC_RAW)
+  hit_time: 1764171225.161086292 (MONOTONIC_RAW)
+  latency : 0.246491183 s
+Measurement 5:
+  arm_time: 1764171235.161258627 (MONOTONIC_RAW)
+  hit_time: 1764171235.333253350 (MONOTONIC_RAW)
+  latency : 0.171994723 s
+Measurement 6:
+  arm_time: 1764171245.333422105 (MONOTONIC_RAW)
+  hit_time: 1764171245.549048149 (MONOTONIC_RAW)
+  latency : 0.215626044 s
+Measurement 7:
+  arm_time: 1764171255.549216895 (MONOTONIC_RAW)
+  hit_time: 1764171255.897125205 (MONOTONIC_RAW)
+  latency : 0.347908310 s
+
+
+Measurement 1:
+  arm_time: 87644.208839167 (MONOTONIC_RAW)
+  hit_time: 87670.856162225 (MONOTONIC_RAW)
+  latency : 26.647323058 s
+Measurement 2:
+  arm_time: 87680.856392738 (MONOTONIC_RAW)
+  hit_time: 87681.076781386 (MONOTONIC_RAW)
+  latency : 0.220388648 s
+Measurement 3:
+  arm_time: 87691.077037213 (MONOTONIC_RAW)
+  hit_time: 87691.292290861 (MONOTONIC_RAW)
+  latency : 0.215253648 s
+Measurement 4:
+  arm_time: 87701.292525263 (MONOTONIC_RAW)
+  hit_time: 87701.348477670 (MONOTONIC_RAW)
+  latency : 0.055952407 s
+Measurement 5:
+  arm_time: 87711.348727238 (MONOTONIC_RAW)
+  hit_time: 87711.493183127 (MONOTONIC_RAW)
+  latency : 0.144455889 s
+
+=============== TIMEOUT = 10s =========================
+Measurement 1: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 2: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 3: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 4: PID 0x0404 detected
+  arm_time: 3330.878192496 (MONOTONIC_RAW)
+  hit_time: 3333.344306976 (MONOTONIC_RAW)
+  latency : 2.466114480 s
+Measurement 5: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 6: PID 0x0404 detected
+  arm_time: 3345.354885635 (MONOTONIC_RAW)
+  hit_time: 3345.428018709 (MONOTONIC_RAW)
+  latency : 0.073133074 s
+Measurement 7: PID 0x0404 detected
+  arm_time: 3346.428554449 (MONOTONIC_RAW)
+  hit_time: 3346.544955283 (MONOTONIC_RAW)
+  latency : 0.116400834 s
+Measurement 8: PID 0x0404 detected
+  arm_time: 3347.545215060 (MONOTONIC_RAW)
+  hit_time: 3347.590685856 (MONOTONIC_RAW)
+  latency : 0.045470796 s
+Measurement 9: PID 0x0404 detected
+  arm_time: 3348.590812411 (MONOTONIC_RAW)
+  hit_time: 3348.743029929 (MONOTONIC_RAW)
+  latency : 0.152217518 s
+Measurement 10: PID 0x0404 detected
+  arm_time: 3349.743147799 (MONOTONIC_RAW)
+  hit_time: 3349.903169558 (MONOTONIC_RAW)
+  latency : 0.160021759 s
+Measurement 11: PID 0x0404 detected
+  arm_time: 3350.903307243 (MONOTONIC_RAW)
+  hit_time: 3351.166959835 (MONOTONIC_RAW)
+  latency : 0.263652592 s
+Measurement 12: PID 0x0404 detected
+  arm_time: 3352.167094001 (MONOTONIC_RAW)
+  hit_time: 3352.312958909 (MONOTONIC_RAW)
+  latency : 0.145864908 s
+Measurement 13: PID 0x0404 detected
+  arm_time: 3353.313344464 (MONOTONIC_RAW)
+  hit_time: 3353.481977223 (MONOTONIC_RAW)
+  latency : 0.168632759 s
+Measurement 14: PID 0x0404 detected
+  arm_time: 3354.482396611 (MONOTONIC_RAW)
+  hit_time: 3354.605184667 (MONOTONIC_RAW)
+  latency : 0.122788056 s
+Measurement 15: PID 0x0404 detected
+  arm_time: 3355.605974518 (MONOTONIC_RAW)
+  hit_time: 3355.849511759 (MONOTONIC_RAW)
+  latency : 0.243537241 s
+Measurement 16: PID 0x0404 detected
+  arm_time: 3356.849629739 (MONOTONIC_RAW)
+  hit_time: 3356.923142795 (MONOTONIC_RAW)
+  latency : 0.073513056 s
+Measurement 17: PID 0x0404 detected
+  arm_time: 3357.923274831 (MONOTONIC_RAW)
+  hit_time: 3358.033193331 (MONOTONIC_RAW)
+  latency : 0.109918500 s
+Measurement 18: PID 0x0404 detected
+  arm_time: 3359.033418034 (MONOTONIC_RAW)
+  hit_time: 3359.264288775 (MONOTONIC_RAW)
+  latency : 0.230870741 s
+Measurement 19: PID 0x0404 detected
+  arm_time: 3360.264742089 (MONOTONIC_RAW)
+  hit_time: 3360.370569348 (MONOTONIC_RAW)
+  latency : 0.105827259 s
+Measurement 20: PID 0x0404 detected
+  arm_time: 3361.371098496 (MONOTONIC_RAW)
+  hit_time: 3361.583016551 (MONOTONIC_RAW)
+  latency : 0.211918055 s
+Measurement 21: PID 0x0404 detected
+  arm_time: 3362.583339532 (MONOTONIC_RAW)
+  hit_time: 3362.663959106 (MONOTONIC_RAW)
+  latency : 0.080619574 s
+Measurement 22: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 23: PID 0x0404 detected
+  arm_time: 3374.674538692 (MONOTONIC_RAW)
+  hit_time: 3374.758736432 (MONOTONIC_RAW)
+  latency : 0.084197740 s
+Measurement 24: PID 0x0404 detected
+  arm_time: 3375.759599524 (MONOTONIC_RAW)
+  hit_time: 3375.893603543 (MONOTONIC_RAW)
+  latency : 0.134004019 s
+Measurement 25: PID 0x0404 detected
+  arm_time: 3376.894007487 (MONOTONIC_RAW)
+  hit_time: 3377.101158135 (MONOTONIC_RAW)
+  latency : 0.207150648 s
+Measurement 26: PID 0x0404 detected
+  arm_time: 3378.101281116 (MONOTONIC_RAW)
+  hit_time: 3378.331509745 (MONOTONIC_RAW)
+  latency : 0.230228629 s
+Measurement 27: PID 0x0404 detected
+  arm_time: 3379.331751708 (MONOTONIC_RAW)
+  hit_time: 3379.593930948 (MONOTONIC_RAW)
+  latency : 0.262179240 s
+Measurement 28: PID 0x0404 detected
+  arm_time: 3380.594047059 (MONOTONIC_RAW)
+  hit_time: 3380.634347299 (MONOTONIC_RAW)
+  latency : 0.040300240 s
+Measurement 29: PID 0x0404 detected
+  arm_time: 3381.634490132 (MONOTONIC_RAW)
+  hit_time: 3381.757159836 (MONOTONIC_RAW)
+  latency : 0.122669704 s
+Measurement 30: PID 0x0404 detected
+  arm_time: 3382.757348780 (MONOTONIC_RAW)
+  hit_time: 3382.804662465 (MONOTONIC_RAW)
+  latency : 0.047313685 s
+Measurement 31: PID 0x0404 detected
+  arm_time: 3383.804910483 (MONOTONIC_RAW)
+  hit_time: 3384.039508186 (MONOTONIC_RAW)
+  latency : 0.234597703 s
+Measurement 32: PID 0x0404 detected
+  arm_time: 3385.039696537 (MONOTONIC_RAW)
+  hit_time: 3385.200800648 (MONOTONIC_RAW)
+  latency : 0.161104111 s
+Measurement 33: PID 0x0404 detected
+  arm_time: 3386.201049833 (MONOTONIC_RAW)
+  hit_time: 3386.484808574 (MONOTONIC_RAW)
+  latency : 0.283758741 s
+Measurement 34: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 35: PID 0x0404 detected
+  arm_time: 3398.489286270 (MONOTONIC_RAW)
+  hit_time: 3398.676062418 (MONOTONIC_RAW)
+  latency : 0.186776148 s
+Measurement 36: PID 0x0404 detected
+  arm_time: 3399.676382621 (MONOTONIC_RAW)
+  hit_time: 3400.001323714 (MONOTONIC_RAW)
+  latency : 0.324941093 s
+Measurement 37: PID 0x0404 detected
+  arm_time: 3401.001439954 (MONOTONIC_RAW)
+  hit_time: 3401.099042417 (MONOTONIC_RAW)
+  latency : 0.097602463 s
+Measurement 38: PID 0x0404 detected
+  arm_time: 3402.099167305 (MONOTONIC_RAW)
+  hit_time: 3402.308830435 (MONOTONIC_RAW)
+  latency : 0.209663130 s
+Measurement 39: PID 0x0404 detected
+  arm_time: 3403.308952008 (MONOTONIC_RAW)
+  hit_time: 3403.422423508 (MONOTONIC_RAW)
+  latency : 0.113471500 s
+Measurement 40: PID 0x0404 detected
+  arm_time: 3404.423142915 (MONOTONIC_RAW)
+  hit_time: 3404.574187267 (MONOTONIC_RAW)
+  latency : 0.151044352 s
+Measurement 41: PID 0x0404 detected
+  arm_time: 3405.574372784 (MONOTONIC_RAW)
+  hit_time: 3405.882391969 (MONOTONIC_RAW)
+  latency : 0.308019185 s
+Measurement 42: PID 0x0404 detected
+  arm_time: 3406.882551673 (MONOTONIC_RAW)
+  hit_time: 3407.188237987 (MONOTONIC_RAW)
+  latency : 0.305686314 s
+Measurement 43: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 44: PID 0x0404 detected
+  arm_time: 3419.198889424 (MONOTONIC_RAW)
+  hit_time: 3419.346422221 (MONOTONIC_RAW)
+  latency : 0.147532797 s
+Measurement 45: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 46: TIMEOUT after 10.0 s (no PID 0x0404)
+Measurement 47: PID 0x0404 detected
+  arm_time: 3442.359162096 (MONOTONIC_RAW)
+  hit_time: 3442.503282411 (MONOTONIC_RAW)
+  latency : 0.144120315 s
+
+======================== TIMEOUT 30s ====================
+
+Measurement 1: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 2: PID 0x0404 detected
+  arm_time: 3643.974576346 (MONOTONIC_RAW)
+  hit_time: 3651.847086915 (MONOTONIC_RAW)
+  latency : 7.872510569 s
+Measurement 3: PID 0x0404 detected
+  arm_time: 3652.847259304 (MONOTONIC_RAW)
+  hit_time: 3653.071087544 (MONOTONIC_RAW)
+  latency : 0.223828240 s
+Measurement 4: PID 0x0404 detected
+  arm_time: 3654.071549099 (MONOTONIC_RAW)
+  hit_time: 3654.143160414 (MONOTONIC_RAW)
+  latency : 0.071611315 s
+Measurement 5: PID 0x0404 detected
+  arm_time: 3655.143281506 (MONOTONIC_RAW)
+  hit_time: 3655.202908247 (MONOTONIC_RAW)
+  latency : 0.059626741 s
+Measurement 6: PID 0x0404 detected
+  arm_time: 3656.203026709 (MONOTONIC_RAW)
+  hit_time: 3656.369068283 (MONOTONIC_RAW)
+  latency : 0.166041574 s
+Measurement 7: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 8: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 9: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 10: PID 0x0404 detected
+  arm_time: 3750.388678449 (MONOTONIC_RAW)
+  hit_time: 3750.467290431 (MONOTONIC_RAW)
+  latency : 0.078611982 s
+Measurement 11: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 12: TIMEOUT after 30.0 s (no PID 0x0404)
+Measurement 13: TIMEOUT after 30.0 s (no PID 0x0404)
+
+=============== TIMEOUT 5s ===================
+
+Measurement 1: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 2: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 3: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 4: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 5: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 6: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 7: PID 0x0404 detected
+  arm_time: 4101.426122129 (MONOTONIC_RAW)
+  hit_time: 4101.426143759 (MONOTONIC_RAW)
+  latency : 0.000021630 s
+Measurement 8: PID 0x0404 detected
+  arm_time: 4102.426278795 (MONOTONIC_RAW)
+  hit_time: 4102.426290980 (MONOTONIC_RAW)
+  latency : 0.000012185 s
+Measurement 9: PID 0x0404 detected
+  arm_time: 4103.426470461 (MONOTONIC_RAW)
+  hit_time: 4103.426487350 (MONOTONIC_RAW)
+  latency : 0.000016889 s
+Measurement 10: PID 0x0404 detected
+  arm_time: 4104.426603646 (MONOTONIC_RAW)
+  hit_time: 4104.426617257 (MONOTONIC_RAW)
+  latency : 0.000013611 s
+Measurement 11: PID 0x0404 detected
+  arm_time: 4105.426765349 (MONOTONIC_RAW)
+  hit_time: 4105.426782367 (MONOTONIC_RAW)
+  latency : 0.000017018 s
+Measurement 12: PID 0x0404 detected
+  arm_time: 4106.427796996 (MONOTONIC_RAW)
+  hit_time: 4106.490237663 (MONOTONIC_RAW)
+  latency : 0.062440667 s
+Measurement 13: PID 0x0404 detected
+  arm_time: 4107.490391329 (MONOTONIC_RAW)
+  hit_time: 4107.653564125 (MONOTONIC_RAW)
+  latency : 0.163172796 s
+Measurement 14: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 15: PID 0x0404 detected
+  arm_time: 4114.659183325 (MONOTONIC_RAW)
+  hit_time: 4114.781075269 (MONOTONIC_RAW)
+  latency : 0.121891944 s
+Measurement 16: PID 0x0404 detected
+  arm_time: 4115.781217269 (MONOTONIC_RAW)
+  hit_time: 4115.923396528 (MONOTONIC_RAW)
+  latency : 0.142179259 s
+Measurement 17: PID 0x0404 detected
+  arm_time: 4116.923591101 (MONOTONIC_RAW)
+  hit_time: 4117.084841323 (MONOTONIC_RAW)
+  latency : 0.161250222 s
+Measurement 18: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 19: PID 0x0404 detected
+  arm_time: 4124.090459504 (MONOTONIC_RAW)
+  hit_time: 4124.299157578 (MONOTONIC_RAW)
+  latency : 0.208698074 s
+Measurement 20: PID 0x0404 detected
+  arm_time: 4125.299463300 (MONOTONIC_RAW)
+  hit_time: 4125.404641337 (MONOTONIC_RAW)
+  latency : 0.105178037 s
+Measurement 21: PID 0x0404 detected
+  arm_time: 4126.405801540 (MONOTONIC_RAW)
+  hit_time: 4126.602702651 (MONOTONIC_RAW)
+  latency : 0.196901111 s
+Measurement 22: PID 0x0404 detected
+  arm_time: 4127.602883984 (MONOTONIC_RAW)
+  hit_time: 4127.687564336 (MONOTONIC_RAW)
+  latency : 0.084680352 s
+Measurement 23: PID 0x0404 detected
+  arm_time: 4128.687919779 (MONOTONIC_RAW)
+  hit_time: 4128.887400464 (MONOTONIC_RAW)
+  latency : 0.199480685 s
+Measurement 24: PID 0x0404 detected
+  arm_time: 4129.887528131 (MONOTONIC_RAW)
+  hit_time: 4129.986581279 (MONOTONIC_RAW)
+  latency : 0.099053148 s
+Measurement 25: PID 0x0404 detected
+  arm_time: 4130.986862426 (MONOTONIC_RAW)
+  hit_time: 4131.283037982 (MONOTONIC_RAW)
+  latency : 0.296175556 s
+Measurement 26: PID 0x0404 detected
+  arm_time: 4132.283419185 (MONOTONIC_RAW)
+  hit_time: 4132.335677092 (MONOTONIC_RAW)
+  latency : 0.052257907 s
+Measurement 27: PID 0x0404 detected
+  arm_time: 4133.335801517 (MONOTONIC_RAW)
+  hit_time: 4133.596368295 (MONOTONIC_RAW)
+  latency : 0.260566778 s
+Measurement 28: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 29: PID 0x0404 detected
+  arm_time: 4140.601667735 (MONOTONIC_RAW)
+  hit_time: 4140.859909457 (MONOTONIC_RAW)
+  latency : 0.258241722 s
+Measurement 30: PID 0x0404 detected
+  arm_time: 4141.860022753 (MONOTONIC_RAW)
+  hit_time: 4142.069646827 (MONOTONIC_RAW)
+  latency : 0.209624074 s
+Measurement 31: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 32: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 33: PID 0x0404 detected
+  arm_time: 4155.073569801 (MONOTONIC_RAW)
+  hit_time: 4155.237462338 (MONOTONIC_RAW)
+  latency : 0.163892537 s
+Measurement 34: PID 0x0404 detected
+  arm_time: 4156.238112300 (MONOTONIC_RAW)
+  hit_time: 4156.305410430 (MONOTONIC_RAW)
+  latency : 0.067298130 s
+Measurement 35: PID 0x0404 detected
+  arm_time: 4157.305831262 (MONOTONIC_RAW)
+  hit_time: 4157.449627096 (MONOTONIC_RAW)
+  latency : 0.143795834 s
+Measurement 36: PID 0x0404 detected
+  arm_time: 4158.449936873 (MONOTONIC_RAW)
+  hit_time: 4158.675445391 (MONOTONIC_RAW)
+  latency : 0.225508518 s
+Measurement 37: PID 0x0404 detected
+  arm_time: 4159.675657428 (MONOTONIC_RAW)
+  hit_time: 4159.902162409 (MONOTONIC_RAW)
+  latency : 0.226504981 s
+Measurement 38: PID 0x0404 detected
+  arm_time: 4160.902314242 (MONOTONIC_RAW)
+  hit_time: 4161.122169612 (MONOTONIC_RAW)
+  latency : 0.219855370 s
+Measurement 39: TIMEOUT after 5.0 s (no PID 0x0404)
+Measurement 40: TIMEOUT after 5.0 s (no PID 0x0404)
+
+======== TIMEOUT 2s config with GI 1/32 overclock @2GHz =========
+Best time @66
+
+Measurement 1: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 2: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 3: PID 0x0404 detected
+  arm_time: 308.097757297 (MONOTONIC_RAW)
+  hit_time: 309.403870315 (MONOTONIC_RAW)
+  latency : 1.306113018 s
+Measurement 4: PID 0x0404 detected
+  arm_time: 310.404257852 (MONOTONIC_RAW)
+  hit_time: 310.404269759 (MONOTONIC_RAW)
+  latency : 0.000011907 s
+Measurement 5: PID 0x0404 detected
+  arm_time: 311.404423351 (MONOTONIC_RAW)
+  hit_time: 311.404436444 (MONOTONIC_RAW)
+  latency : 0.000013093 s
+Measurement 6: PID 0x0404 detected
+  arm_time: 312.404718573 (MONOTONIC_RAW)
+  hit_time: 312.404741887 (MONOTONIC_RAW)
+  latency : 0.000023314 s
+Measurement 7: PID 0x0404 detected
+  arm_time: 313.404968016 (MONOTONIC_RAW)
+  hit_time: 313.404992720 (MONOTONIC_RAW)
+  latency : 0.000024704 s
+Measurement 8: PID 0x0404 detected
+  arm_time: 314.405164812 (MONOTONIC_RAW)
+  hit_time: 314.464072312 (MONOTONIC_RAW)
+  latency : 0.058907500 s
+Measurement 9: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 10: PID 0x0404 detected
+  arm_time: 336.474979651 (MONOTONIC_RAW)
+  hit_time: 336.826536132 (MONOTONIC_RAW)
+  latency : 0.351556481 s
+Measurement 11: PID 0x0404 detected
+  arm_time: 337.826796817 (MONOTONIC_RAW)
+  hit_time: 338.067058391 (MONOTONIC_RAW)
+  latency : 0.240261574 s
+Measurement 12: PID 0x0404 detected
+  arm_time: 339.067200427 (MONOTONIC_RAW)
+  hit_time: 339.358316038 (MONOTONIC_RAW)
+  latency : 0.291115611 s
+Measurement 13: PID 0x0404 detected
+  arm_time: 340.358487278 (MONOTONIC_RAW)
+  hit_time: 340.576356111 (MONOTONIC_RAW)
+  latency : 0.217868833 s
+Measurement 14: PID 0x0404 detected
+  arm_time: 341.577002759 (MONOTONIC_RAW)
+  hit_time: 341.787688370 (MONOTONIC_RAW)
+  latency : 0.210685611 s
+Measurement 15: PID 0x0404 detected
+  arm_time: 342.788016388 (MONOTONIC_RAW)
+  hit_time: 342.903207832 (MONOTONIC_RAW)
+  latency : 0.115191444 s
+Measurement 16: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 17: PID 0x0404 detected
+  arm_time: 364.924104671 (MONOTONIC_RAW)
+  hit_time: 365.032535060 (MONOTONIC_RAW)
+  latency : 0.108430389 s
+Measurement 18: PID 0x0404 detected
+  arm_time: 366.033981615 (MONOTONIC_RAW)
+  hit_time: 366.243917948 (MONOTONIC_RAW)
+  latency : 0.209936333 s
+Measurement 19: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 20: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 21: PID 0x0404 detected
+  arm_time: 409.259709533 (MONOTONIC_RAW)
+  hit_time: 409.394583848 (MONOTONIC_RAW)
+  latency : 0.134874315 s
+Measurement 22: PID 0x0404 detected
+  arm_time: 410.394844255 (MONOTONIC_RAW)
+  hit_time: 410.786612532 (MONOTONIC_RAW)
+  latency : 0.391768277 s
+Measurement 23: PID 0x0404 detected
+  arm_time: 411.787219106 (MONOTONIC_RAW)
+  hit_time: 412.030920772 (MONOTONIC_RAW)
+  latency : 0.243701666 s
+Measurement 24: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 25: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 26: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 27: PID 0x0404 detected
+  arm_time: 476.038098771 (MONOTONIC_RAW)
+  hit_time: 476.091840531 (MONOTONIC_RAW)
+  latency : 0.053741760 s
+Measurement 28: PID 0x0404 detected
+  arm_time: 477.092082382 (MONOTONIC_RAW)
+  hit_time: 477.367377808 (MONOTONIC_RAW)
+  latency : 0.275295426 s
+Measurement 29: PID 0x0404 detected
+  arm_time: 478.367499011 (MONOTONIC_RAW)
+  hit_time: 478.513078085 (MONOTONIC_RAW)
+  latency : 0.145579074 s
+Measurement 30: PID 0x0404 detected
+  arm_time: 479.513272103 (MONOTONIC_RAW)
+  hit_time: 479.636511158 (MONOTONIC_RAW)
+  latency : 0.123239055 s
+Measurement 31: PID 0x0404 detected
+  arm_time: 480.636687509 (MONOTONIC_RAW)
+  hit_time: 480.967473509 (MONOTONIC_RAW)
+  latency : 0.330786000 s
+Measurement 32: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 33: PID 0x0404 detected
+  arm_time: 502.980026348 (MONOTONIC_RAW)
+  hit_time: 503.245332774 (MONOTONIC_RAW)
+  latency : 0.265306426 s
+Measurement 34: PID 0x0404 detected
+  arm_time: 504.245461292 (MONOTONIC_RAW)
+  hit_time: 504.333767199 (MONOTONIC_RAW)
+  latency : 0.088305907 s
+Measurement 35: PID 0x0404 detected
+  arm_time: 505.334311013 (MONOTONIC_RAW)
+  hit_time: 505.697946013 (MONOTONIC_RAW)
+  latency : 0.363635000 s
+Measurement 36: PID 0x0404 detected
+  arm_time: 506.698109586 (MONOTONIC_RAW)
+  hit_time: 506.758114957 (MONOTONIC_RAW)
+  latency : 0.060005371 s
+Measurement 37: PID 0x0404 detected
+  arm_time: 507.758294289 (MONOTONIC_RAW)
+  hit_time: 507.886748271 (MONOTONIC_RAW)
+  latency : 0.128453982 s
+Measurement 38: PID 0x0404 detected
+  arm_time: 508.886928863 (MONOTONIC_RAW)
+  hit_time: 509.106569048 (MONOTONIC_RAW)
+  latency : 0.219640185 s
+Measurement 39: PID 0x0404 detected
+  arm_time: 510.107716733 (MONOTONIC_RAW)
+  hit_time: 510.317737547 (MONOTONIC_RAW)
+  latency : 0.210020814 s
+Measurement 40: PID 0x0404 detected
+  arm_time: 511.317914861 (MONOTONIC_RAW)
+  hit_time: 511.561127324 (MONOTONIC_RAW)
+  latency : 0.243212463 s
+Measurement 41: PID 0x0404 detected
+  arm_time: 512.561302972 (MONOTONIC_RAW)
+  hit_time: 512.864486046 (MONOTONIC_RAW)
+  latency : 0.303183074 s
+Measurement 42: PID 0x0404 detected
+  arm_time: 513.864672990 (MONOTONIC_RAW)
+  hit_time: 513.963806397 (MONOTONIC_RAW)
+  latency : 0.099133407 s
+Measurement 43: PID 0x0404 detected
+  arm_time: 514.963983026 (MONOTONIC_RAW)
+  hit_time: 515.119007859 (MONOTONIC_RAW)
+  latency : 0.155024833 s
+Measurement 44: PID 0x0404 detected
+  arm_time: 516.119343692 (MONOTONIC_RAW)
+  hit_time: 516.256123655 (MONOTONIC_RAW)
+  latency : 0.136779963 s
+Measurement 45: PID 0x0404 detected
+  arm_time: 517.256493728 (MONOTONIC_RAW)
+  hit_time: 517.476222802 (MONOTONIC_RAW)
+  latency : 0.219729074 s
+Measurement 46: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 47: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 48: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 49: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 50: PID 0x0404 detected
+  arm_time: 602.530694511 (MONOTONIC_RAW)
+  hit_time: 602.639660640 (MONOTONIC_RAW)
+  latency : 0.108966129 s
+Measurement 51: PID 0x0404 detected
+  arm_time: 603.640028325 (MONOTONIC_RAW)
+  hit_time: 603.725900695 (MONOTONIC_RAW)
+  latency : 0.085872370 s
+Measurement 52: PID 0x0404 detected
+  arm_time: 604.726016917 (MONOTONIC_RAW)
+  hit_time: 604.904837139 (MONOTONIC_RAW)
+  latency : 0.178820222 s
+Measurement 53: PID 0x0404 detected
+  arm_time: 605.904957972 (MONOTONIC_RAW)
+  hit_time: 606.195384694 (MONOTONIC_RAW)
+  latency : 0.290426722 s
+Measurement 54: PID 0x0404 detected
+  arm_time: 607.195551601 (MONOTONIC_RAW)
+  hit_time: 607.346242860 (MONOTONIC_RAW)
+  latency : 0.150691259 s
+Measurement 55: PID 0x0404 detected
+  arm_time: 608.346953063 (MONOTONIC_RAW)
+  hit_time: 608.556070507 (MONOTONIC_RAW)
+  latency : 0.209117444 s
+Measurement 56: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 57: PID 0x0404 detected
+  arm_time: 630.576524661 (MONOTONIC_RAW)
+  hit_time: 630.686711494 (MONOTONIC_RAW)
+  latency : 0.110186833 s
+Measurement 58: PID 0x0404 detected
+  arm_time: 631.687773679 (MONOTONIC_RAW)
+  hit_time: 631.767263401 (MONOTONIC_RAW)
+  latency : 0.079489722 s
+Measurement 59: PID 0x0404 detected
+  arm_time: 632.767526530 (MONOTONIC_RAW)
+  hit_time: 632.991622085 (MONOTONIC_RAW)
+  latency : 0.224095555 s
+Measurement 60: PID 0x0404 detected
+  arm_time: 633.991738566 (MONOTONIC_RAW)
+  hit_time: 634.202363733 (MONOTONIC_RAW)
+  latency : 0.210625167 s
+Measurement 61: PID 0x0404 detected
+  arm_time: 635.202523195 (MONOTONIC_RAW)
+  hit_time: 635.318444454 (MONOTONIC_RAW)
+  latency : 0.115921259 s
+Measurement 62: PID 0x0404 detected
+  arm_time: 636.319109787 (MONOTONIC_RAW)
+  hit_time: 636.525061250 (MONOTONIC_RAW)
+  latency : 0.205951463 s
+Measurement 63: PID 0x0404 detected
+  arm_time: 637.525954157 (MONOTONIC_RAW)
+  hit_time: 637.838413805 (MONOTONIC_RAW)
+  latency : 0.312459648 s
+Measurement 64: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 65: PID 0x0404 detected
+  arm_time: 659.850370810 (MONOTONIC_RAW)
+  hit_time: 660.163140754 (MONOTONIC_RAW)
+  latency : 0.312769944 s
+Measurement 66: PID 0x0404 detected
+  arm_time: 661.163388087 (MONOTONIC_RAW)
+  hit_time: 661.195690754 (MONOTONIC_RAW)
+  latency : 0.032302667 s
+Measurement 67: TIMEOUT after 20.0 s (no PID 0x0404)
+Measurement 68: PID 0x0404 detected
+  arm_time: 683.200716166 (MONOTONIC_RAW)
+  hit_time: 683.281299185 (MONOTONIC_RAW)
+  latency : 0.080583019 s
+Measurement 69: PID 0x0404 detected
+  arm_time: 684.281456981 (MONOTONIC_RAW)
+  hit_time: 684.649058925 (MONOTONIC_RAW)
+  latency : 0.367601944 s
